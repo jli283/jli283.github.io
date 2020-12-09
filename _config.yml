@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiamin Li"
+title                    : "Math pages"
 title_separator          : "-"
 name                     : &name "Jiamin Li"
 description              : &description "My academic website"
