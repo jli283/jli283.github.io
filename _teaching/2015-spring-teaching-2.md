@@ -9,7 +9,7 @@ venue: "UIC, MSCS"
 location: "Chicago, US"
 ---
 
-
+I held discussion sections for Math 125 at UIC.
 
 Course Webpage
 ======
