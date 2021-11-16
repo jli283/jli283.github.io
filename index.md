@@ -5,7 +5,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
 
 Previously my interest was in differential geometry.
 
-### Short CV
+### CV
 
 - Education 
   - PhD in Pure Mathematics, University of Illinois at Chicago, 2018 - current;
