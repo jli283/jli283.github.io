@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Jiamin Li's Math Page
 
-You can use the [editor on GitHub](https://github.com/jli283/jli283.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a fourth year graduate student at the UIC MSCS department. My advisor is Wenliang Zhang.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interest
+I am broadly interested in commutative algebra and algebraic geometry. Currently my focus is on understanding local cohomology and characterstic p method in CA/AG. I am also interested in learning a bit of number theory.
 
-### Markdown
+Previously my interest was in differential geometry.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Short CV
 
-```markdown
-Syntax highlighted code block
+- Education 
+  - PhD in Pure Mathematics, University of Illinois at Chicago, 2018-current;
+  - BSc (Hons) in Mathematical Science, Binghamton University, 2014-2017.
+- Teaching
+  - I have held discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra) and Math 180 (Calculus I).
+- Service
+  - Organizer (with John Lee) of grad student number theory seminar at UIC.
 
-# Header 1
-## Header 2
-### Header 3
+### Current Teaching
+I am currently teaching Math 180 (discussion sessions).
 
-- Bulleted
-- List
+### Paper(s)
+  - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv link](https://arxiv.org/abs/2111.06950), submitted.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jli283/jli283.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Invited talk(s)
+  - "Recent developments in commutative algebra”, AMS Sectional Meeting at Purdue University, March 2022.
+  
+### Contact
+jli283 at uic dot edu
