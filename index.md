@@ -13,7 +13,7 @@ Previously my interest was in differential geometry.
 - Teaching
   - I have held discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra) and Math 180 (Calculus I).
 - Service
-  - Organizer (with John Lee) of grad student number theory seminar at UIC.
+  - Co-organizing the grad student number theory seminar at UIC with John Lee.
 
 ### Current Teaching
 I am currently teaching Math 180 (discussion sessions).
