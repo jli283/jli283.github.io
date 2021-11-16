@@ -7,16 +7,16 @@ Previously my interest was in differential geometry.
 
 ### Short CV
 
-- Education 
+- **Education** 
   - PhD in Pure Mathematics, University of Illinois at Chicago, 2018 - current;
   - BSc (Hons) in Mathematical Science, Binghamton University, 2014 - 2017.
-- Teaching
+- **Teaching**
   - I have held discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I).
-- Service
+- **Service**
   - Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
 
 ### Current Teaching
-I am currently teaching the discussion session of Math 180.
+Fall 2021: discussion session of Math 180.
 
 ### Paper(s)
   - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv link](https://arxiv.org/abs/2111.06950), submitted.
