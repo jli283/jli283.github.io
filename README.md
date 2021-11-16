@@ -1,5 +1,3 @@
-# Jiamin Li's Math Page
-
 I am a fourth year graduate student at the UIC MSCS department. My advisor is Wenliang Zhang.
 
 ### Research Interest
