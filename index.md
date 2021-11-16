@@ -22,7 +22,7 @@ Fall 2021: discussion session of Math 180.
   - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv link](https://arxiv.org/abs/2111.06950), submitted.
 
 ### Invited talk(s)
-  - "Recent developments in commutative algebra”, AMS Sectional Meeting at Purdue University, March 2022.
+  - "Recent developments in commutative algebra”, AMS Sectional Meeting, Purdue University, March 2022.
   
 ### Contact
 jli283 at uic dot edu
