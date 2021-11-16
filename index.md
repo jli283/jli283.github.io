@@ -16,7 +16,7 @@ Previously my interest was in differential geometry.
   - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
 
 ### Current Teaching
-Fall 2021: discussion session of Math 180.
+2021 Fall: discussion session of Math 180.
 
 ### Paper(s)
   - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv link](https://arxiv.org/abs/2111.06950), submitted.
