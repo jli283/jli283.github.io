@@ -8,7 +8,7 @@ Previously my interest was in differential geometry.
 ### Short CV
 
 - **Education** 
-  - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - current;
+  - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
   - BSc (Hons) in Mathematical Science, Binghamton University, NY, 2014 - 2017.
 - **Teaching**
   - I have held discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I).
