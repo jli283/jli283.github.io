@@ -20,6 +20,7 @@ Previously my interest was in differential geometry.
 
 ### Paper(s)
   - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv link](https://arxiv.org/abs/2111.06950), submitted.
+  - Singularities of generic linkage with Frobenius powers, in preparation.
 
 ### Invited talk(s)
   - "Recent developments in commutative algebra”, AMS Sectional Meeting, Purdue University, March 2022.
