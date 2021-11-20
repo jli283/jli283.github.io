@@ -4,8 +4,7 @@ I am a fourth year graduate student at the [UIC MSCS department](https://mscs.ui
 I am broadly interested in commutative algebra and algebraic geometry. Currently my focus is on understanding local cohomology, D-modules, syzygies and characteristic p methods in CA/AG. I am also interested in learning a bit of number theory.
 
 <details>
-  
-  ### Short CV 
+<summary>Short CV</summary> 
 
   - **Education** 
     - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
