@@ -12,7 +12,7 @@ Previously my interest was in differential geometry.
   - BSc (Hons) in Mathematical Science, Binghamton University, NY, 2014 - 2017.
 - **Teaching**
   - Discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I).
-  - Grader for MATH 310 (Linear Algebra).
+  - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
 - **Service**
   - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
 
