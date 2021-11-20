@@ -8,7 +8,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
 - **Education** 
   - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
   - BSc (Hons) in Mathematical Science, Binghamton University, NY, 2014 - 2017.
-- **Teaching**
+- **Past Teaching**
   - Discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I).
   - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
 - **Service**
@@ -19,7 +19,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
   - 2021 Fall: discussion session of Math 180.
  
 ### Paper(s) 
-  
+
   - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv](https://arxiv.org/abs/2111.06950), submitted.
   - Singularities of generic linkage with Frobenius powers, in preparation.
 
