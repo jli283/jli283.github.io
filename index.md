@@ -1,11 +1,10 @@
 I am a fourth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/).
 
-### Research Interest
+#### Research Interest
 I am broadly interested in commutative algebra and algebraic geometry. Currently my focus is on understanding local cohomology, D-modules, syzygies and characteristic p methods in CA/AG. I am also interested in learning a bit of number theory.
 
-Previously my interest was in differential geometry.
-
-### Short CV
+<details>
+<summary><b> Short CV </b></summary>
 
 - **Education** 
   - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
@@ -15,16 +14,28 @@ Previously my interest was in differential geometry.
   - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
 - **Service**
   - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
+</details>
 
-### Current Teaching
-2021 Fall: discussion session of Math 180.
+  <details>
+<summary><b> Current Teaching </b></summary>
 
-### Paper(s)
-  - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv link](https://arxiv.org/abs/2111.06950), submitted.
+  - 2021 Fall: discussion session of Math 180.
+  </details>
+
+  <details>
+  <summary><b> Paper(s) </b></summary>
+  
+  - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv](https://arxiv.org/abs/2111.06950), submitted.
   - Singularities of generic linkage with Frobenius powers, in preparation.
-
-### Invited talk(s)
+  
+  </details>
+      
+   <details>
+<summary><b> Invited talk(s) </b></summary>
+  
   - "Recent developments in commutative algebra”, AMS Sectional Meeting, Purdue University, March 2022.
+  
+   </details>
   
 ### Contact
 jli283 at uic dot edu
