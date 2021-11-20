@@ -3,6 +3,8 @@ I am a fourth year graduate student at the [UIC MSCS department](https://mscs.ui
 ### Research Interest
 I am broadly interested in commutative algebra and algebraic geometry. Currently my focus is on understanding local cohomology, D-modules, syzygies and characteristic p methods in CA/AG. I am also interested in learning a bit of number theory.
 
+<details>
+  
 ### Short CV 
 
 - **Education** 
@@ -13,6 +15,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
   - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
 - **Service**
   - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
+</details>
 
 ### Current Teaching 
 
