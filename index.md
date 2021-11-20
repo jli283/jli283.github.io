@@ -14,7 +14,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
 - **Service**
   - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
 
- ### Current Teaching 
+### Current Teaching 
 
   - 2021 Fall: discussion session of Math 180.
  
