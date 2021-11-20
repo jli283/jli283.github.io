@@ -5,16 +5,16 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
 
 <details>
   
-### Short CV 
+  ### Short CV 
 
-- **Education** 
-  - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
-  - BSc (Hons) in Mathematical Science, Binghamton University, NY, 2014 - 2017.
-- **Past Teaching**
-  - Discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I).
-  - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
-- **Service**
-  - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
+  - **Education** 
+    - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
+    - BSc (Hons) in Mathematical Science, Binghamton University, NY, 2014 - 2017.
+  - **Past Teaching**
+    - Discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I).
+    - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
+  - **Service**
+    - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
 </details>
 
 ### Current Teaching 
