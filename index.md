@@ -14,7 +14,6 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
   - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
 - **Service**
   - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
- 
 </details>
 
   <details>
@@ -28,11 +27,10 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
   
   - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv](https://arxiv.org/abs/2111.06950), submitted.
   - Singularities of generic linkage with Frobenius powers, in preparation.
-  
   </details>
       
    <details>
-<summary><b> Invited talk(s) </b></summary>
+   <summary><b> Invited talk(s) </b></summary>
   
   - "Recent developments in commutative algebra”, AMS Sectional Meeting, Purdue University, March 2022.
   
