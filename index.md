@@ -17,17 +17,19 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
 
 #### Current Teaching 
 
-  - 2021 Fall: discussion session of Math 180.
+  - 2022 Spring: discussion session of Math 181.
  
 #### Paper(s) 
 
   - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv](https://arxiv.org/abs/2111.06950), submitted.
-  - Singularities of generic linkage with Frobenius powers, in preparation.
+  - Multiplicities and determinantal thickenings, in preparation.
+  - Singularities of generic linkage with Frobenius powers, in progress.
 
       
 #### Invited talk(s) 
   
   - "Recent developments in commutative algebra”, AMS Sectional Meeting, Purdue University, March 2022.
+  - Commutative Algebra Seminar, UIC, March 2022.
   
   
 ### Contact
