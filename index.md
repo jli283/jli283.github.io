@@ -17,12 +17,12 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
 
 #### Current Teaching 
 
-  - 2022 Spring: discussion session of Math 181.
+  - 2022 Spring: discussion session of Math 181 (Calculus II).
  
 #### Paper(s) 
 
   - A note on the multiplicities of the determinantal thickenings of maximal minors, [arxiv](https://arxiv.org/abs/2111.06950), submitted.
-  - Multiplicities and determinantal thickenings, in preparation.
+  - Multiplicities and determinantal thickenings (title subject to change), in preparation.
   - Singularities of generic linkage with Frobenius powers, in progress.
 
       
