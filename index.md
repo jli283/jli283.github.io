@@ -1,7 +1,7 @@
 I am a fourth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/).
 
 ### Research Interests
-I am broadly interested in commutative algebra and algebraic geometry. Currently my focus is on understanding local cohomology, D-modules, syzygies and characteristic p methods in CA/AG. I am also interested in learning a bit of number theory.
+I am broadly interested in commutative algebra and algebraic geometry. Currently my focus is on understanding local cohomology, D-modules and singularity problems in whatever characteristic. I am also interested in learning a bit of number theory.
 
 #### Short CV 
 
