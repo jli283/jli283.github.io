@@ -1,4 +1,4 @@
-I am a fourth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/).
+I am a fifth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/).
 
 ### Research Interests
 I am broadly interested in commutative algebra and algebraic geometry. Currently my focus is on understanding local cohomology, D-modules and singularity problems in whatever characteristic. I am also interested in learning a bit of number theory.
@@ -25,7 +25,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
 #### Invited talks
   - Special session of commutative algebra, AMS Sectional Meeting, University of Utah, October 2022.
   - "Recent developments in commutative algebra”, AMS Sectional Meeting, Purdue University, March 2022.
-  - Commutative Algebra Seminar, UIC, March 2022.
+  - Commutative Algebra seminar, UIC, March 2022.
   
   
 ### Contact
