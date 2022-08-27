@@ -29,7 +29,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
   - Commutative Algebra seminar, UIC, March 2022.
 
 #### Other presentations
-I have given several talks at the graduate student algebraic geometry seminar and the graduate student number theory seminar before.
+- Several talks at the graduate student algebraic geometry seminar and the graduate student number theory seminar at UIC.
   
   
 ### Contact
