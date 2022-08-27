@@ -27,6 +27,9 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
   - Special session of commutative algebra, AMS Sectional Meeting, University of Utah, October 2022.
   - "Recent developments in commutative algebra”, AMS Sectional Meeting, Purdue University, March 2022.
   - Commutative Algebra seminar, UIC, March 2022.
+
+#### Other presentations
+I have given several talks at the graduate student algebraic geometry seminar and the graduate student number theory seminar before.
   
   
 ### Contact
