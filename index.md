@@ -12,7 +12,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
     - Discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I), Math 181 (Calculus II).
     - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
   - **Service**
-    - (2021-2022) Co-organizing the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
+    - (2021-2022) Co-organized the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
 
  
 #### Papers
