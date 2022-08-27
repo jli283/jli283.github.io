@@ -7,7 +7,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
 
   - **Education** 
     - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
-    - BSc (Hons) in Mathematical Science, Binghamton University, NY, 2014 - 2017.
+    - BSc (Hons) in Mathematical Sciences, Binghamton University, NY, 2014 - 2017.
   - **Past Teaching**
     - Discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I), Math 181 (Calculus II).
     - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
