@@ -10,7 +10,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
     - BSc (Hons) in Mathematical Sciences, Binghamton University, NY, 2014 - 2017.
   - **Past Teaching**
     - Discussion sessions of Math 110 (College Algebra), Math 125 (Elementary Linear Algebra for Business) and Math 180 (Calculus I), Math 181 (Calculus II).
-    - Grader for MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
+    - Grader of MATH 320 (Linear Algebra) and MATH 330 (Abstract Algebra).
   - **Service**
     - (2021-2022) Co-organized the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
 
@@ -21,7 +21,7 @@ In Fall 2022 I am a grader of Math 435 (Introduction of number theory) and Math 
 
   - On the generalized multiplicities of maximal minors and sub-maximal pfaffians, [arxiv](https://arxiv.org/abs/2205.09657), submitted.
   - Singularities of generic linkage via Frobenius powers, [arxiv](https://arxiv.org/abs/2207.06380), submitted.
-  - Asymptotic socle degrees of local cohomology modules of maximal minors and sub-maximal pfaffians (with Michael Perlman), in preparation.
+  - Socle degrees of local cohomology modules of maximal minors and sub-maximal pfaffians (with Michael Perlman), in preparation.
 
       
 #### Invited talks
