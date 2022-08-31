@@ -14,7 +14,9 @@ I am broadly interested in commutative algebra and algebraic geometry. Currently
   - **Service**
     - (2021-2022) Co-organized the grad student number theory seminar at UIC with [John Lee](https://mscs.uic.edu/profiles/slee649/).
 
- 
+#### Teaching
+In Fall 2022 I am a grader of Math 435 (Introduction of number theory) and Math 310 (Applied linear algebra).
+
 #### Papers
 
   - On the generalized multiplicities of maximal minors and sub-maximal pfaffians, [arxiv](https://arxiv.org/abs/2205.09657), submitted.
