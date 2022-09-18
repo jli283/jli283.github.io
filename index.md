@@ -3,7 +3,7 @@ I am a fifth year graduate student at the [UIC MSCS department](https://mscs.uic
 ### Research Interests
 I am broadly interested in commutative algebra and algebraic geometry. Currently my focus is on understanding local cohomology, D-modules and singularity problems in whatever characteristic. I am also interested in learning a bit of number theory.
 
-#### Short CV 
+#### Short [CV](main.pdf)
 
   - **Education** 
     - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
