@@ -3,7 +3,7 @@ I am a fifth year graduate student at the [UIC MSCS department](https://mscs.uic
 ### Research Interests
 I am broadly interested in commutative algebra and algebraic geometry. My focus is on understanding local cohomology modules, D-modules and singularity problems in any characteristic. Recently I am trying to understand mixed Hodge structures on local cohomology modules.
 
-#### Short [CV](main.pdf)
+#### Short [CV](cv.pdf)
 
   - **Education** 
     - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
@@ -21,7 +21,7 @@ In Fall 2022 I am a grader of Math 435 (Introduction of number theory) and Math 
 
   - On the generalized multiplicities of maximal minors and sub-maximal pfaffians, [arxiv](https://arxiv.org/abs/2205.09657), submitted.
   - Singularities of generic linkage via Frobenius powers, [arxiv](https://arxiv.org/abs/2207.06380), submitted.
-  - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with [Michael Perlman](https://sites.google.com/view/michaelperlman/home)), in preparation.
+  - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with Michael Perlman), in preparation.
 
       
 #### Invited talks
@@ -31,6 +31,7 @@ In Fall 2022 I am a grader of Math 435 (Introduction of number theory) and Math 
   - Commutative Algebra seminar, UIC, March 2022.
 
 #### Other presentations
+- Poster at KUMUNU 2022 Fall.
 - Several talks at the graduate student algebraic geometry seminar and the graduate student number theory seminar at UIC.
   
   
