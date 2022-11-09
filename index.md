@@ -5,11 +5,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Specifica
 
 Recently I am trying to understand mixed Hodge structures on local cohomology modules.
 
-#### Short [CV](cv.pdf)
-
-  - **Education** 
-    - PhD in Pure Mathematics, University of Illinois at Chicago, IL, 2018 - present;
-    - BSc (Hons) in Mathematical Sciences, Binghamton University, NY, 2014 - 2017.
+#### My most recent [CV](cv.pdf).
 
 #### Teaching
 In Fall 2022 I am a grader of Math 435 (Introduction of number theory) and Math 310 (Applied linear algebra).
