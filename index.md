@@ -7,9 +7,6 @@ Recently I am trying to understand mixed Hodge structures on local cohomology mo
 
 #### My most recent [CV](cv.pdf).
 
-#### Teaching
-In Fall 2022 I am a grader of Math 435 (Introduction of number theory) and Math 310 (Applied linear algebra).
-
 #### Papers
 
   - On the generalized multiplicities of maximal minors and sub-maximal pfaffians, [arxiv](https://arxiv.org/abs/2205.09657), submitted.
