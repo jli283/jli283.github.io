@@ -14,7 +14,7 @@ In Fall 2022 I am a grader of Math 435 (Introduction of number theory) and Math 
 
   - On the generalized multiplicities of maximal minors and sub-maximal pfaffians, [arxiv](https://arxiv.org/abs/2205.09657), submitted.
   - Singularities of generic linkage via Frobenius powers, [arxiv](https://arxiv.org/abs/2207.06380), submitted.
-  - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with Michael Perlman), [arxiv](https://arxiv.org/abs/2212.06899).
+  - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with [Michael Perlman](https://sites.google.com/view/michaelperlman/home?authuser=0)), [arxiv](https://arxiv.org/abs/2212.06899).
 
       
 #### Invited talks
