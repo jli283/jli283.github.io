@@ -20,6 +20,7 @@ Recently I am trying to understand mixed Hodge structures on local cohomology mo
   - Commutative Algebra seminar, UIC, March 2022.
 
 #### Other presentations
+- Poster at 2023 JMM AWM section, Boston.
 - Poster at KUMUNU 2022 Fall.
 - Several talks at the graduate student algebraic geometry seminar and the graduate student number theory seminar at UIC.
   
