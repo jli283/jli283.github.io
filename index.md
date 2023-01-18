@@ -11,8 +11,7 @@ Recently I am trying to understand mixed Hodge structures on local cohomology mo
 
   - On the generalized multiplicities of maximal minors and sub-maximal pfaffians, [arxiv](https://arxiv.org/abs/2205.09657), submitted.
   - Singularities of generic linkage via Frobenius powers, [arxiv](https://arxiv.org/abs/2207.06380), submitted.
-  - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with [Michael Perlman](https://sites.google.com/view/michaelperlman/home?authuser=0)), [arxiv](https://arxiv.org/abs/2212.06899).
-
+  - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with [Michael Perlman](https://sites.google.com/view/michaelperlman/home?authuser=0)), [arxiv](https://arxiv.org/abs/2212.06899), submitted.
       
 #### Invited talks
   - Commutative algebra and algebraic geometry seminar, University of Minnesota, October, 2022.
