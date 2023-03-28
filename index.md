@@ -14,6 +14,7 @@ Recently I am trying to understand mixed Hodge module structures on local cohomo
   - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with [Michael Perlman](https://sites.google.com/view/michaelperlman/home?authuser=0)), [arxiv](https://arxiv.org/abs/2212.06899), submitted.
       
 #### Invited talks
+  - "Commutative Algebra, Differential Operators, and Singularities", AMS Sectional Meeting, Creighton University, October 2023.
   - Commutative algebra and algebraic geometry seminar, University of Minnesota, October, 2022.
   - Special session of commutative algebra, AMS Sectional Meeting, University of Utah, October 2022.
   - "Recent developments in commutative algebra”, AMS Sectional Meeting, Purdue University, March 2022.
