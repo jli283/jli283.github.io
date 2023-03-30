@@ -3,7 +3,7 @@ I am a fifth year graduate student at the [UIC MSCS department](https://mscs.uic
 ### Research Interests
 I am broadly interested in commutative algebra and algebraic geometry. Specifically, I am interested in understanding local cohomology modules, D-modules and singularity problems in any characteristic. 
 
-Recently I am trying to understand mixed Hodge module structures on local cohomology modules.
+Recently I am trying to understand how to filter local cohomology modules.
 
 #### My most recent [CV](cv.pdf).
 
