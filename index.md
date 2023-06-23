@@ -1,4 +1,6 @@
-I am a fifth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/).
+I am a fifth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/). I am on the job market in Fall 2023.
+
+![Myself](IMG_0985.jpeg)
 
 ### Research Interests
 I am broadly interested in commutative algebra and algebraic geometry. Specifically, I am interested in understanding local cohomology modules, D-modules and singularity problems in any characteristic. 
@@ -21,6 +23,7 @@ Recently I am trying to understand how to filter local cohomology modules.
   - Commutative Algebra seminar, UIC, March 2022.
 
 #### Other presentations
+- Lightening talk at Macaulay2 workshop at UMN 2023.
 - Poster at 2023 JMM AWM section, Boston.
 - Poster at KUMUNU 2022 Fall.
 - Several talks at the graduate student algebraic geometry seminar and the graduate student number theory seminar at UIC.
