@@ -5,7 +5,7 @@ I am a sixth year graduate student at the [UIC MSCS department](https://mscs.uic
 ### Research Interests
 I am broadly interested in commutative algebra and algebraic geometry. Specifically, I am interested in understanding local cohomology modules, D-modules and singularity problems in any characteristic. 
 
-#### My most recent [CV](cv.pdf).
+#### My most recent [CV](Curriculum_Vitae.pdf).
 
 #### Papers
   - Vanishing of Local cohomology and Segre products (with Wenliang Zhang), in progress.
