@@ -1,21 +1,22 @@
-I am a fifth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/). I am on the job market in Fall 2023.
+I am a sixth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/). I am on the job market in Fall 2023.
 
 <img src="image0.jpeg" width="542" height="220" />
 
 ### Research Interests
 I am broadly interested in commutative algebra and algebraic geometry. Specifically, I am interested in understanding local cohomology modules, D-modules and singularity problems in any characteristic. 
 
-Recently I am trying to understand how to filter local cohomology modules.
-
 #### My most recent [CV](cv.pdf).
 
 #### Papers
-
+  - Vanishing of Local cohomology and Segre products (with Wenliang Zhang), in progress.
   - On the generalized multiplicities of maximal minors and sub-maximal pfaffians, [arxiv](https://arxiv.org/abs/2205.09657), submitted.
   - Singularities of generic linkage via Frobenius powers, [arxiv](https://arxiv.org/abs/2207.06380), accepted to Proc. Amer. Math. Soc.
-  - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with [Michael Perlman](https://sites.google.com/view/michaelperlman/home?authuser=0)), [arxiv](https://arxiv.org/abs/2212.06899), submitted.
+  - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with [Michael Perlman](https://sites.google.com/view/michaelperlman/home?authuser=0)), [arxiv](https://arxiv.org/abs/2212.06899), accepted to Proc. Amer. Math. Soc.
       
-#### Invited talks
+#### Talks
+  - Commutative algebra seminar, Purdue University, Nov 2023
+  - Commutative algebra seminar, University of Michigan, Nov 2023
+  - Algebra days in Arizona, Arizona State University, Nov 2023.
   - "Commutative Algebra, Differential Operators, and Singularities", AMS Sectional Meeting, Creighton University, October 2023.
   - Commutative algebra and algebraic geometry seminar, University of Minnesota, October, 2022.
   - Special session of commutative algebra, AMS Sectional Meeting, University of Utah, October 2022.
