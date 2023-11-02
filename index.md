@@ -10,7 +10,7 @@ I am broadly interested in commutative algebra and algebraic geometry. Specifica
 #### My most recent [CV](Curriculum_Vitae.pdf).
 
 #### Papers
-  - Vanishing of Local cohomology and Segre products (with Wenliang Zhang), in progress.
+  - Vanishing of Local cohomology and Segre products (with Wenliang Zhang), in preparation.
   - On the generalized multiplicities of maximal minors and sub-maximal pfaffians, [arxiv](https://arxiv.org/abs/2205.09657), submitted.
   - Singularities of generic linkage via Frobenius powers, [arxiv](https://arxiv.org/abs/2207.06380), accepted to Proc. Amer. Math. Soc.
   - Socle degrees for local cohomology modules of thickenings of maximal minors and sub-maximal Pfaffians (with [Michael Perlman](https://sites.google.com/view/michaelperlman/home?authuser=0)), [arxiv](https://arxiv.org/abs/2212.06899), accepted to Proc. Amer. Math. Soc.
