@@ -1,7 +1,5 @@
 I am a sixth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/). Duing 2023-2024 I am supported by the Dean's Scholar Fellowship at UIC.
 
-##### I am on the job market in Fall 2023.
-
 <img src="image0.jpeg" width="542" height="220" />
 
 ### Research Interests
