@@ -7,4 +7,4 @@ This is a temporary page until I have full access to the university system.
 
 [Homework 1](math3113HW1.pdf) Due 09/02 on Gradescope. If I do not have access to Gradescope by the due date, the deadline will be extended until I have access to it.
 
-[back](./)
+
