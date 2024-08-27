@@ -9,4 +9,6 @@ This is a temporary page until I have full access to the university system.
 
 8/26 [Quiz 1 Solutions](quiz1_key.pdf)
 
+8/26 I have office hours Wednesday (8/28), 15:00 - 16:00
+
 
