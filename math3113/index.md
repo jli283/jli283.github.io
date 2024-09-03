@@ -21,6 +21,7 @@ OU Email address: jiamin.li@ou.edu
 - Quiz 2: separation of variables, existence and uniqueness theorem of solutions
 
 - Supplemental readings: [Modeling with First Order Differential Equations](https://tutorial.math.lamar.edu/classes/de/modeling.aspx)
+-  9/3 [Homework 2](HW2.pdf) Due date TBD
 
 
 
