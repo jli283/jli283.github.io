@@ -7,6 +7,8 @@ OU Email address: jiamin.li@ou.edu
 
 [Syllabus](math3113syllabus.pdf)
 
+### Tentative dates for midterms: Exam 1 (09/27), Exam 2 (10/25), Exam 3 (11/22)
+
 ### week 2:
 
 - 8/26 [Homework 1](HW1.pdf) Due 09/02 on Gradescope. If I do not have access to Gradescope by the due date, the deadline will be extended until I have access to it.
