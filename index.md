@@ -1,6 +1,6 @@
 I am currently a postdoc at the math department of the University of Oklahoma, my mentor is [András Cristian Lőrincz](https://math.ou.edu/~alorincz/).
 
-Previously, I was a graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor was [Wenliang Zhang](https://wlzhang.people.uic.edu/). During 2023-2024 I am supported by the Dean's Scholar Fellowship at UIC.
+Previously, I was a graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor was [Wenliang Zhang](https://wlzhang.people.uic.edu/).
 
 <img src="image0.jpeg" width="542" height="220" />
 
