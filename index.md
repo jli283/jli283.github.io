@@ -1,4 +1,6 @@
-I am a sixth year graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor is [Wenliang Zhang](https://wlzhang.people.uic.edu/). During 2023-2024 I am supported by the Dean's Scholar Fellowship at UIC.
+I am currently a postdoc at the math department of the University of Oklahoma, my mentor is [András Cristian Lőrincz](https://math.ou.edu/~alorincz/).
+
+Previously, I was a graduate student at the [UIC MSCS department](https://mscs.uic.edu/). My advisor was [Wenliang Zhang](https://wlzhang.people.uic.edu/). During 2023-2024 I am supported by the Dean's Scholar Fellowship at UIC.
 
 <img src="image0.jpeg" width="542" height="220" />
 
@@ -29,6 +31,8 @@ I am broadly interested in commutative algebra and algebraic geometry. Specifica
 - Poster at KUMUNU 2022 Fall.
 - Several talks at the graduate student algebraic geometry seminar and the graduate student number theory seminar at UIC.
   
+#### Teaching
+- I am teaching Math 3113 (Ordinary differential equations) this semester.
   
 ### Contact
-jli283 at uic dot edu
+jiamin dot li at ou dot edu
