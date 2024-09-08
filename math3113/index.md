@@ -25,7 +25,8 @@ OU Email address: jiamin.li@ou.edu
 - Supplemental readings: [Modeling with First Order Differential Equations](https://tutorial.math.lamar.edu/classes/de/modeling.aspx)
 -  9/3 [Homework 2](HW2.pdf) Due date TBD
 -  9/6 [Handout](handout1.pdf)
--  9/7 [Homework 1 Solution](HW1_sol.pdf), please let me know if you find any mistakes.You are welcome to correct your answers before submitting them. However, it is your responsibility to make sure you understand what you miss.
+-  9/7 [Homework 1 Solutions](HW1_sol.pdf), please let me know if you find any mistakes.You are welcome to correct your answers before submitting them. However, it is your responsibility to make sure you understand what you miss.
+-  9/7 [Quiz 2 Solutions](quiz2_key.pdf)
 
 
 
