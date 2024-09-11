@@ -1,7 +1,7 @@
 
 ## Math 3113
 
-This is a temporary page until I have full access to the university system.
+## See you on Canvas
 
 OU Email address: jiamin.li@ou.edu
 
