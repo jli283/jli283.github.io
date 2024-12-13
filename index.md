@@ -32,8 +32,9 @@ I am broadly interested in commutative algebra and algebraic geometry. Specifica
 - Several talks at the graduate student algebraic geometry seminar and the graduate student number theory seminar at UIC.
 -->
   
-#### Teaching
-- I am teaching Math 3113 (Ordinary differential equations) this semester.
+#### Teaching (at OU)
+- Spring 2025: Math 3333 (Linear Algebra)
+- Fall 2024: Math 3113 (Ordinary Differential Equations)
   
 ### Contact
 jiamin dot li at ou dot edu
