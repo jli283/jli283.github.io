@@ -2,8 +2,6 @@ I am currently a postdoc at the math department of the University of Oklahoma, m
 
 In Summer 2024, I obtained my PhD in mathematics from the [math department of University of Illinois at Chicago](https://mscs.uic.edu/), where my advisor was [Wenliang Zhang](https://wlzhang.people.uic.edu/).
 
-<img src="image0.jpeg" width="542" height="220" />
-
 ### Research Interests
 I am broadly interested in commutative algebra and algebraic geometry. Specifically, I am interested in understanding local cohomology modules, D-modules and singularity problems in any characteristic. 
 
